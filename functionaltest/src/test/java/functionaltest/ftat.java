@@ -16,8 +16,8 @@ public class ftat {
 	public HtmlUnitDriver driver;
 	//public WebDriver driver;
 	public WebDriverWait wait;
-	public String URL = "http://18.191.195.76:8080/QAWebapp/";
-	public String URL1 = "http://18.191.195.76:8080/QAWebapp/avncreatepage.jsp";
+	public String URL = "http://3.138.134.218:8080/QAWebapp/";
+	public String URL1 = "http://3.138.134.218:8080/QAWebapp/avncreatepage.jsp";
 	 
 	@Test(priority = 0)
 	public void logintest() {
